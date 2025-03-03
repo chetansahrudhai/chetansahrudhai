@@ -1,10 +1,10 @@
 # About Me
 
-- 🔭 I’m currently working on *a better portfolio using React and Next*.
-- 🌱 I’m currently learning *AWS Solutions Architect coursework*.
-- 👯 I’m looking to collaborate on *writing research papers on anything ML and AI, especially LLM's*.
-- 🤔 I’m looking for help with *Android and iOS app development*.
-- 💬 Ask me about *my crazy life stories and line-ups on Valorant*.
+- 🔭 I’m currently working on *a better portfolio*.
+- 🌱 I’m currently learning *React Native*.
+- 👯 I’m looking to collaborate on *anything CS, preferably AI and LLMs*.
+- 🤔 I’m looking for help with *getting into big tech (referrals highly appreciated!)*.
+- 💬 Ask me about *why I am the way I am, lol*.
 - 📫 How to reach me: https://www.linkedin.com/in/chetansahrudhai/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Laughing about the toughest situations actually helps you!
+- ⚡ Fun fact: I once got kidnapped.
